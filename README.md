@@ -23,7 +23,7 @@ https://app.powerbi.com/reportEmbed?reportId=871233e1-4d8b-499f-969b-b7acc1ada00
 -Re-modelled the data relationship.
 
 -Created an executive KPI dashboard containing dynamic filtering options, high-level trending metrics, sales performance, order distribution, and trendings month over month, quarter over quarter.
-![PIZZA DASH](https://user-images.githubusercontent.com/113992933/229295013-b245afa1-e8f0-460d-9022-6985de4a1bfe.png)
+![PIZZA DASH](https://github.com/tushar8057/Pizza-Sales-Dashboard/blob/main/Dashboard_Image.png)
 
 
 ## Insights
